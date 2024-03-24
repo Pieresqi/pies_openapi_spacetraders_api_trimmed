@@ -4,7 +4,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**symbol** | **String** | The unique identifier of the modifier. | 
+**symbol** | [**models::WaypointModifierSymbol**](WaypointModifierSymbol.md) |  | 
 **name** | **String** | The name of the trait. | 
 **description** | **String** | A description of the trait. | 
 

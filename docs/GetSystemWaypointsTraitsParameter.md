@@ -1,12 +1,11 @@
 # GetSystemWaypointsTraitsParameter
 
-## Properties
+## Enum Variants
 
-Name | Type | Description | Notes
------------- | ------------- | ------------- | -------------
-**symbol** | **String** | The unique identifier of the trait. | 
-**name** | **String** | The name of the trait. | 
-**description** | **String** | A description of the trait. | 
+| Name | Description |
+|---- | -----|
+| Vec<models::WaypointTraitSymbol> |  |
+| WaypointTraitSymbol |  |
 
 [[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
 

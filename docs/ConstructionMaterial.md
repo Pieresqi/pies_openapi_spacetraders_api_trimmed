@@ -4,7 +4,7 @@
 
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**trade_symbol** | [**crate::models::TradeSymbol**](TradeSymbol.md) |  | 
+**trade_symbol** | [**models::TradeSymbol**](TradeSymbol.md) |  | 
 **required** | **i32** | The number of units required. | 
 **fulfilled** | **i32** | The number of units fulfilled toward the required amount. | 
 
